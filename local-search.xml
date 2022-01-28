@@ -4,6 +4,62 @@
   
   
   <entry>
+    <title>放鞭炮</title>
+    <link href="/2022/01/28/%E6%94%BE%E9%9E%AD%E7%82%AE/"/>
+    <url>/2022/01/28/%E6%94%BE%E9%9E%AD%E7%82%AE/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我家的鞭炮"><a href="#我家的鞭炮" class="headerlink" title="我家的鞭炮"></a>我家的鞭炮</h1><p>过年回到乡下，发现农村也放不了烟花了，只好用用现有的储备了！</p><p><img src="/images/1.jpeg"></p><p><img src="/images/2.jpeg" alt="我家的“存粮”"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>闲聊</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Python教程(1)</title>
+    <link href="/2022/01/28/Python%E6%95%99%E7%A8%8B(1)/"/>
+    <url>/2022/01/28/Python%E6%95%99%E7%A8%8B(1)/</url>
+    
+    <content type="html"><![CDATA[<h1 id="什么是Python"><a href="#什么是Python" class="headerlink" title="什么是Python"></a>什么是Python</h1><blockquote><p>Python由荷兰数学和计算机科学研究学会的吉多·范罗苏姆于1990年代初设计，作为一门叫做ABC语言的替代品。Python提供了高效的高级数据结构，还能简单有效地面向对象编程。Python语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言,随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。<br>                                                             ——摘自百度百科</p></blockquote><p><img src="/images/python_logo.jpg" alt="Python的logo"></p><h1 id="Python的适用人群"><a href="#Python的适用人群" class="headerlink" title="Python的适用人群"></a>Python的适用人群</h1><p>如果你是对编程感兴趣，但不是很了解，又想通过编程来为自己日常生活提供便利的话，那Python就是你的不二之选！来跟着我一步步学吧！</p><h1 id="1-初识Python"><a href="#1-初识Python" class="headerlink" title="1.初识Python"></a>1.初识Python</h1><p>在这一章里，我们将初步了解Python，并搭建它的开发环境。</p><h2 id="1-1-Python代码的样子"><a href="#1-1-Python代码的样子" class="headerlink" title="1.1 Python代码的样子"></a>1.1 Python代码的样子</h2><p>下面是一段最简单的Python代码，大家可以发挥想象，猜一猜它的意思。</p><figure class="highlight python"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs python"><span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;hello world&#x27;</span>)<br></code></pre></td></tr></table></figure><p>大家猜到是什么意思了吗？没错，就是让Python在屏幕上输出“hello world”的字符。代码中“print”表示打印，括号告诉Python要输出什么内容，而双引号则表示“这是引用的内容，你照着打印就对了！”<br>就这么简单。可见Python是十分贴近自然语言的，这也是Python简单易上手的原因之一。</p><h2 id="1-2-搭建Python环境"><a href="#1-2-搭建Python环境" class="headerlink" title="1.2 搭建Python环境"></a>1.2 搭建Python环境</h2><h3 id="1-2-1-下载解释器"><a href="#1-2-1-下载解释器" class="headerlink" title="1.2.1 下载解释器"></a>1.2.1 下载解释器</h3><p>我们得到Python官网：<a href="https://python.org/">python.org</a>上下载最新版本的Python解释器，点击Download按钮，选择你的系统对应的安装包，下载下来，如图：</p><p><img src="/images/python_download_installer1.png" alt="点击Download按钮"><br><img src="/images/python_download_installer2.png" alt="在列表中下载对应自己操作系统的版本"></p><p>之后跟着安装器一步步安装即可</p><blockquote><p>注意：在Windows系统上，安装时要勾选左下角的一行小字：“Add Python 3.x to path”，否则会出现一些错误！</p></blockquote><h3 id="1-2-2-选择合适的IDE"><a href="#1-2-2-选择合适的IDE" class="headerlink" title="1.2.2 选择合适的IDE"></a>1.2.2 选择合适的IDE</h3><p>待更新······</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>编程教学、杂谈</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>编程</tag>
+      
+      <tag>Python</tag>
+      
+      <tag>Python教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>开始</title>
     <link href="/2022/01/28/%E5%BC%80%E5%A7%8B/"/>
     <url>/2022/01/28/%E5%BC%80%E5%A7%8B/</url>
